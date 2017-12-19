@@ -9,8 +9,8 @@
         <module name="activitiDemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="activitiDemo" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="activitiDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
